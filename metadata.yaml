@@ -1,0 +1,35 @@
+_repo: Hurrah-for-Peter-Perry_70843
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Meyerheim, Florence
+    alias: Meyerheim, F.
+    birthdate: 1873
+    gutenberg_agent_id: '55947'
+    url: http://www.gutenberg.org/2009/agents/55947
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Meyerheim
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70843'
+language: en
+pgterms:marc905: 20230519061714stooke
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bWells Gardner, Darton & Co., Ltd., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Hurrah for Peter Perry!
+url: http://www.gutenberg.org/ebooks/70843
