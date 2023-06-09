@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '55947'
     url: http://www.gutenberg.org/2009/agents/55947
     wikipedia: https://en.wikipedia.org/wiki/Florence_Meyerheim
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70843#Hurrah-for-Peter-Perry
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70843'
